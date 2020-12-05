@@ -1,4 +1,7 @@
-### Howdy there 👋
+### Hello there 👋
+
+- 🌱 I’m currently studying computer science at UBC 
+- 🔭 I’m currently working on... learning the basics!
 
 <!--
 **jerdavies/jerdavies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
