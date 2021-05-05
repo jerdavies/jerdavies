@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🌱 I’m currently studying computer science at UBC 
-- 🔭 I’m currently working on learning Java, building data science projects, and developing my WebDev toolkit
+- 🔭 Working on learning Java, building data science projects, and developing my WebDev toolkit
 
 <!--
 **jerdavies/jerdavies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
