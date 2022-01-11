@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I’m currently studying computer science at UBC 
+- 🌱 I’m currently studying computer science and statistics at UBC 
 - 🔭 Working on learning Java/Python (OOP in general), building data science projects, and developing my WebDev toolkit
 
 <!--
